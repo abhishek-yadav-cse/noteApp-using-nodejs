@@ -3,9 +3,9 @@ A nodejs application for working with notes.
 
 # Running application
 
-`npm install`
+`$ npm install`
 
-`node app.js  <operation>`
+`$ node app.js  <operation>`
 
 There are four operation that can be performed with noteApp.
 
