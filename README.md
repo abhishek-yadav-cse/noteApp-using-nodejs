@@ -10,9 +10,17 @@ A nodejs application for working with notes.
 There are four operation that can be performed with noteApp.
 
 - Add note
+  `$ node app.js add --title= <some title> --body= <some body for note>`
+  
 - Remove note
+  `$ node app.js remove --title= <title of the note that has to be removed>`
+
 - Read note
-- List notes
+  `$ node app.js read --title= <title of the note that has to be read> `
+  
+- List notes (list all the notes in our note application)
+  `$ node app.js list`
+
 
 # Things learned from the project
 
